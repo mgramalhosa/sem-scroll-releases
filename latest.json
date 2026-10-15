@@ -1,8 +1,8 @@
 {
-  "versionCode": 7,
-  "versionName": "1.7",
+  "versionCode": 8,
+  "versionName": "1.8",
   "apkUrl": "https://raw.githubusercontent.com/mgramalhosa/sem-scroll-releases/main/SemScroll.apk",
-  "size": 676560,
-  "sha256": "d5fc8ca75b661e7167ab19350a033ed06c813e0cb03885d795e0055d8c1cc8d1",
-  "notes": "Botão Atualizar: a app procura e instala versões novas sozinha"
+  "size": 678300,
+  "sha256": "172889a20532e869a265d0125d26a1ec290829ce5ead396f87d0a158a8598002",
+  "notes": "Reação imediata e manchas que acompanham a barra durante o scroll"
 }
