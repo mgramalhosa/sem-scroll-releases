@@ -1,8 +1,8 @@
 {
-  "versionCode": 8,
-  "versionName": "1.8",
+  "versionCode": 9,
+  "versionName": "1.9",
   "apkUrl": "https://raw.githubusercontent.com/mgramalhosa/sem-scroll-releases/main/SemScroll.apk",
-  "size": 678300,
-  "sha256": "172889a20532e869a265d0125d26a1ec290829ce5ead396f87d0a158a8598002",
-  "notes": "Reação imediata e manchas que acompanham a barra durante o scroll"
+  "size": 678864,
+  "sha256": "20bda09dfaf926b71ec334382059f36aeb0e6f33c6a3e942c119daacd7004d8a",
+  "notes": "Reel no feed: salta na direção do scroll em vez de voltar ao topo"
 }
