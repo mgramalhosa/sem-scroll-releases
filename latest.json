@@ -1,8 +1,8 @@
 {
-  "versionCode": 9,
-  "versionName": "1.9",
+  "versionCode": 10,
+  "versionName": "1.10",
   "apkUrl": "https://raw.githubusercontent.com/mgramalhosa/sem-scroll-releases/main/SemScroll.apk",
-  "size": 678864,
-  "sha256": "20bda09dfaf926b71ec334382059f36aeb0e6f33c6a3e942c119daacd7004d8a",
-  "notes": "Reel no feed: salta na direção do scroll em vez de voltar ao topo"
+  "size": 679204,
+  "sha256": "055dcc533ea6da8281bf631dc6b8476a2b9d99f2b65bdaa49e2f9d7aa2434a71",
+  "notes": "Salto do reel na direção do scroll: ignora deltas indefinidos (-1), direção por lista e ignora scrolls da própria app"
 }
